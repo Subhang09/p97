@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+    text-align: center;
+  }
+  body {
+    background-color: pink;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/1200px-Heart_coraz%C3%B3n.svg.png");
+    background-position: top;
+    background-size: cover;
+  }
+  #pxp1{
+      margin-left: 75px;
+      margin-top: 50px;
+  }
+  #text2{
+      margin-left: 75px;
+      margin-top: 300px;
+      color: bisque;
+      font-size: 30px;
+  }
+  
